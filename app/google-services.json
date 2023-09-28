@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28114782507",
+    "project_id": "tweet-login-2ff4e",
+    "storage_bucket": "tweet-login-2ff4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28114782507:android:8d70ff4a4dd6989ce7dd6e",
+        "android_client_info": {
+          "package_name": "com.example.tweetfeeldemoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28114782507-l75ui50a9dkfrrgdtrqj969e5ci2pibn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2Fj85L2aeNaIVo723XTZ8itZsetNHkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28114782507-l75ui50a9dkfrrgdtrqj969e5ci2pibn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
